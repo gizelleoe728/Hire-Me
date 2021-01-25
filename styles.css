@@ -1,0 +1,93 @@
+body {
+    background: url(https://www.wallpapertip.com/wmimgs/23-233885_electrical-engineering-wallpapers.jpg);
+}
+body {
+    text-align: center;
+}
+.name {
+    color: #ff3333; 
+    text-align: center;
+    padding: 10px;
+    border: 3px double red;
+    border-radius:10px;
+    margin: 20px;
+    font-family: 'Nerko One', cursive;
+}
+.me {
+    color: #ff8533;
+    text-align: center;
+    padding: 10px;
+    border: 3px ridge orange;
+     border-radius:10px;
+    margin: 20px;
+    font-family: 'JetBrains Mono', monospace;
+}
+.hoddies {
+    color: #0099ff;
+    text-align: center;
+    padding: 7px;
+    border: 3px inset yellow;
+     border-radius:10px;
+    margin: 7px;
+   font-family:'Texturina', serif;
+}
+.game {
+    height: 300px;
+    padding: 10px;
+    border: 5px dotted green;
+    border-radius:15px;
+    margin: 20px;
+}
+.movie {
+    color:#ff4d4d;
+    padding: 7px;
+    border: 3px outset blue;
+     border-radius:10px;
+    margin: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.nightmare {
+    height:400px;
+    padding: 10px;
+    border: 5px groove green;
+     border-radius:15px;
+    margin: 10px;
+}
+.monkey {
+   color: #ff4d4d;
+    padding: 7px;
+    border: 3px dashed blue;
+     border-radius:10px;
+    margin: 10px;
+    font-family: 'Major Mono Display', monospace;
+}
+.band {
+    height:300px;
+    padding: 15px;
+    border: 5px solid purple;
+     border-radius:15px;
+    margin: 20px;
+}
+.years {
+    color:#ff1a1a;
+    padding: 10px;
+    border: 5px hidden;
+    margin: 7px;
+    font-family: 'Syne Mono', monospace;
+}
+.color {
+    color: white;
+    padding: 10px;
+    border: 5px hidden;
+    margin: 7px;
+   font-family: 'Karla', sans-serif;
+}
+.grade {
+    color: #ff9966;
+    padding: 10px;
+    border: 5px hidden;
+    margin: 7px;
+}
+.website {
+    color:#00ffff;
+}
